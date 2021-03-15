@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<title>My Page</title>
 <body>
 
 <h1>
