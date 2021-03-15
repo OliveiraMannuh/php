@@ -5,7 +5,7 @@
 
 <h1>
     <?php
-        echo "Meu código atualizado";
+        echo "Hello";
     ?>
 </h1>
 
