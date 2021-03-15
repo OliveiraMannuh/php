@@ -5,9 +5,8 @@
 
 <h1>
     <?php
-        echo "Hello 123";
-
-        echo "Ha!";
+        echo "Hello";
+        echo "Heeeeeeeeeeeey!";
     ?>
 </h1>
 
